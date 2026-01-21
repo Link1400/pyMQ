@@ -1,9 +1,8 @@
 """
 -------------------------------------------------------
-Food class definition.
+User class definition.
 -------------------------------------------------------
 Author: Ryan F
-Email:  ryanf2205@gmail.com
 
 Defines the user class for the pyMQ backend
 -------------------------------------------------------
